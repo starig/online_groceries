@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Banana",
+    "image": "https://img.icons8.com/color/100/banana.png",
+    "weight": "1 kg",
+    "details": "Fresh ripe bananas, rich in potassium and vitamins."
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "image": "https://img.icons8.com/color/100/apple.png",
+    "weight": "500 g",
+    "details": "Crisp and juicy red apples, perfect for snacks or desserts."
+  },
+  {
+    "id": 3,
+    "name": "Tomato",
+    "image": "https://img.icons8.com/color/100/tomato.png",
+    "weight": "1 kg",
+    "details": "Fresh garden tomatoes, ideal for salads and cooking."
+  },
+  {
+    "id": 4,
+    "name": "Carrot",
+    "image": "https://img.icons8.com/color/100/carrot.png",
+    "weight": "750 g",
+    "details": "Crunchy organic carrots, full of beta-carotene and flavor."
+  },
+  {
+    "id": 5,
+    "name": "Milk",
+    "image": "https://img.icons8.com/color/100/milk-bottle.png",
+    "weight": "1 L",
+    "details": "Fresh cow milk, full cream and pasteurized for safety."
+  },
+  {
+    "id": 6,
+    "name": "Bread",
+    "image": "https://img.icons8.com/color/100/bread.png",
+    "weight": "400 g",
+    "details": "Soft white bread loaf, freshly baked daily."
+  },
+  {
+    "id": 7,
+    "name": "Cheese",
+    "image": "https://img.icons8.com/color/100/cheese.png",
+    "weight": "200 g",
+    "details": "Rich and creamy cheddar cheese block."
+  },
+  {
+    "id": 8,
+    "name": "Eggs",
+    "image": "https://img.icons8.com/color/100/eggs.png",
+    "weight": "12 pcs",
+    "details": "Farm fresh chicken eggs, packed with protein."
+  },
+  {
+    "id": 9,
+    "name": "Orange",
+    "image": "https://img.icons8.com/color/100/orange.png",
+    "weight": "1 kg",
+    "details": "Juicy and sweet oranges, full of vitamin C."
+  },
+  {
+    "id": 10,
+    "name": "Watermelon",
+    "image": "https://img.icons8.com/color/100/watermelon.png",
+    "weight": "3 kg",
+    "details": "Refreshing and sweet watermelon, perfect for summer."
+  },
+  {
+    "id": 11,
+    "name": "Strawberry",
+    "image": "https://img.icons8.com/color/100/strawberry.png",
+    "weight": "250 g",
+    "details": "Fresh strawberries, sweet and full of flavor."
+  },
+  {
+    "id": 12,
+    "name": "Pineapple",
+    "image": "https://img.icons8.com/color/100/pineapple.png",
+    "weight": "1.5 kg",
+    "details": "Tropical pineapple, juicy and tangy."
+  },
+  {
+    "id": 13,
+    "name": "Pear",
+    "image": "https://img.icons8.com/color/100/pear.png",
+    "weight": "500 g",
+    "details": "Sweet green pears, soft and juicy."
+  },
+  {
+    "id": 14,
+    "name": "Peach",
+    "image": "https://img.icons8.com/color/100/peach.png",
+    "weight": "600 g",
+    "details": "Sweet peaches with velvety skin and juicy flesh."
+  },
+  {
+    "id": 15,
+    "name": "Grapes",
+    "image": "https://img.icons8.com/color/100/grapes.png",
+    "weight": "500 g",
+    "details": "Fresh grapes, seedless and naturally sweet."
+  },
+  {
+    "id": 16,
+    "name": "Blueberry",
+    "image": "https://img.icons8.com/color/100/blueberries.png",
+    "weight": "200 g",
+    "details": "Sweet and tangy blueberries, perfect for desserts."
+  },
+  {
+    "id": 17,
+    "name": "Mango",
+    "image": "https://img.icons8.com/color/100/mango.png",
+    "weight": "1 kg",
+    "details": "Tropical mangoes, sweet and aromatic."
+  },
+  {
+    "id": 18,
+    "name": "Cucumber",
+    "image": "https://img.icons8.com/color/100/cucumber.png",
+    "weight": "1 kg",
+    "details": "Fresh cucumbers, crunchy and hydrating."
+  },
+  {
+    "id": 19,
+    "name": "Potato",
+    "image": "https://img.icons8.com/color/100/potato.png",
+    "weight": "2 kg",
+    "details": "Golden potatoes, ideal for boiling or baking."
+  },
+  {
+    "id": 20,
+    "name": "Onion",
+    "image": "https://img.icons8.com/color/100/onion.png",
+    "weight": "1 kg",
+    "details": "Fresh onions, strong flavor for cooking."
+  },
+  {
+    "id": 21,
+    "name": "Garlic",
+    "image": "https://img.icons8.com/color/100/garlic.png",
+    "weight": "250 g",
+    "details": "Aromatic garlic bulbs, great for seasoning."
+  },
+  {
+    "id": 22,
+    "name": "Cabbage",
+    "image": "https://img.icons8.com/color/100/cabbage.png",
+    "weight": "1.2 kg",
+    "details": "Fresh green cabbage, crunchy and nutritious."
+  },
+  {
+    "id": 23,
+    "name": "Broccoli",
+    "image": "https://img.icons8.com/color/100/broccoli.png",
+    "weight": "500 g",
+    "details": "Organic broccoli florets, packed with vitamins."
+  },
+  {
+    "id": 24,
+    "name": "Lettuce",
+    "image": "https://img.icons8.com/color/100/lettuce.png",
+    "weight": "300 g",
+    "details": "Crisp lettuce leaves, perfect for salads."
+  },
+  {
+    "id": 25,
+    "name": "Avocado",
+    "image": "https://img.icons8.com/color/100/avocado.png",
+    "weight": "400 g",
+    "details": "Creamy avocados, rich in healthy fats."
+  },
+  {
+    "id": 26,
+    "name": "Chicken",
+    "image": "https://img.icons8.com/color/100/chicken.png",
+    "weight": "1.2 kg",
+    "details": "Fresh whole chicken, farm raised and tender."
+  },
+  {
+    "id": 27,
+    "name": "Steak",
+    "image": "https://img.icons8.com/color/100/steak.png",
+    "weight": "400 g",
+    "details": "Premium beef steak, juicy and tender."
+  },
+  {
+    "id": 28,
+    "name": "Fish",
+    "image": "https://img.icons8.com/color/100/fish-food.png",
+    "weight": "1 kg",
+    "details": "Fresh fish fillet, rich in omega-3."
+  },
+  {
+    "id": 29,
+    "name": "Shrimp",
+    "image": "https://img.icons8.com/color/100/shrimp.png",
+    "weight": "500 g",
+    "details": "Fresh shrimp, cleaned and ready to cook."
+  },
+  {
+    "id": 30,
+    "name": "Sausage",
+    "image": "https://img.icons8.com/color/100/sausage.png",
+    "weight": "300 g",
+    "details": "Grilled pork sausages with smoky flavor."
+  },
+  {
+    "id": 31,
+    "name": "Butter",
+    "image": "https://img.icons8.com/color/100/butter.png",
+    "weight": "250 g",
+    "details": "Creamy unsalted butter, perfect for cooking."
+  },
+  {
+    "id": 32,
+    "name": "Yogurt",
+    "image": "https://img.icons8.com/color/100/yogurt.png",
+    "weight": "150 g",
+    "details": "Natural plain yogurt, probiotic rich."
+  },
+  {
+    "id": 33,
+    "name": "Ice Cream",
+    "image": "https://img.icons8.com/color/100/ice-cream-bowl.png",
+    "weight": "500 ml",
+    "details": "Vanilla ice cream, creamy and delicious."
+  },
+  {
+    "id": 34,
+    "name": "Chocolate",
+    "image": "https://img.icons8.com/color/100/chocolate-bar.png",
+    "weight": "100 g",
+    "details": "Milk chocolate bar with creamy filling."
+  },
+  {
+    "id": 35,
+    "name": "Cookies",
+    "image": "https://img.icons8.com/color/100/cookies.png",
+    "weight": "250 g",
+    "details": "Crunchy chocolate chip cookies."
+  },
+  {
+    "id": 36,
+    "name": "Cake",
+    "image": "https://img.icons8.com/color/100/cake.png",
+    "weight": "500 g",
+    "details": "Soft sponge cake with cream topping."
+  },
+  {
+    "id": 37,
+    "name": "Coffee",
+    "image": "https://img.icons8.com/color/100/coffee.png",
+    "weight": "250 g",
+    "details": "Ground coffee beans, rich aroma and flavor."
+  },
+  {
+    "id": 38,
+    "name": "Tea",
+    "image": "https://img.icons8.com/color/100/tea.png",
+    "weight": "100 g",
+    "details": "Green tea leaves, refreshing and healthy."
+  },
+  {
+    "id": 39,
+    "name": "Juice",
+    "image": "https://img.icons8.com/color/100/orange-juice.png",
+    "weight": "1 L",
+    "details": "Orange juice, no added sugar."
+  },
+  {
+    "id": 40,
+    "name": "Water",
+    "image": "https://img.icons8.com/color/100/water-bottle.png",
+    "weight": "1.5 L",
+    "details": "Natural mineral water, refreshing and pure."
+  },
+  {
+    "id": 41,
+    "name": "Soda",
+    "image": "https://img.icons8.com/color/100/soda-can.png",
+    "weight": "330 ml",
+    "details": "Carbonated soft drink with sweet taste."
+  },
+  {
+    "id": 42,
+    "name": "Wine",
+    "image": "https://img.icons8.com/color/100/wine-bottle.png",
+    "weight": "750 ml",
+    "details": "Red wine, full-bodied and aromatic."
+  },
+  {
+    "id": 43,
+    "name": "Beer",
+    "image": "https://img.icons8.com/color/100/beer-bottle.png",
+    "weight": "500 ml",
+    "details": "Craft lager beer, refreshing taste."
+  },
+  {
+    "id": 44,
+    "name": "Pasta",
+    "image": "https://img.icons8.com/color/100/spaghetti.png",
+    "weight": "500 g",
+    "details": "Italian pasta, durum wheat semolina."
+  },
+  {
+    "id": 45,
+    "name": "Rice",
+    "image": "https://img.icons8.com/color/100/rice-bowl.png",
+    "weight": "1 kg",
+    "details": "Premium long grain white rice."
+  },
+  {
+    "id": 46,
+    "name": "Flour",
+    "image": "https://img.icons8.com/color/100/flour.png",
+    "weight": "1 kg",
+    "details": "Wheat flour, ideal for baking."
+  },
+  {
+    "id": 47,
+    "name": "Sugar",
+    "image": "https://img.icons8.com/color/100/sugar-cubes.png",
+    "weight": "1 kg",
+    "details": "White granulated sugar."
+  },
+  {
+    "id": 48,
+    "name": "Salt",
+    "image": "https://img.icons8.com/color/100/salt.png",
+    "weight": "1 kg",
+    "details": "Refined table salt for cooking."
+  },
+  {
+    "id": 49,
+    "name": "Oil",
+    "image": "https://img.icons8.com/color/100/olive-oil.png",
+    "weight": "1 L",
+    "details": "Extra virgin olive oil, cold pressed."
+  },
+  {
+    "id": 50,
+    "name": "Honey",
+    "image": "https://img.icons8.com/color/100/honey.png",
+    "weight": "500 g",
+    "details": "Natural wildflower honey, unprocessed."
+  }
+]
