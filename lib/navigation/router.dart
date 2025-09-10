@@ -7,8 +7,10 @@ import 'package:online_groceries/features/shop/shop.dart';
 
 final _rootNavigatorKey = GlobalKey<NavigatorState>();
 final _shellNavigatorShopKey = GlobalKey<NavigatorState>(debugLabel: 'shellShop');
+final _shellNavigatorExploreKey = GlobalKey<NavigatorState>(debugLabel: 'shellExplore');
 final _shellNavigatorCartKey = GlobalKey<NavigatorState>(debugLabel: 'shellCart');
 final _shellNavigatorFavoriteKey = GlobalKey<NavigatorState>(debugLabel: 'shellFavorite');
+final _shellNavigatorAccountKey = GlobalKey<NavigatorState>(debugLabel: 'shellAccount');
 
 class AppRoutes {
   static const String shopScreen = '/shop';
@@ -31,6 +33,15 @@ final router = GoRouter(
           routes: [GoRoute(path: AppRoutes.shopScreen, builder: (context, state) => const Shop())],
         ),
         StatefulShellBranch(
+          navigatorKey: _shellNavigatorExploreKey,
+          routes: [
+            GoRoute(
+              path: AppRoutes.exploreScreen,
+              builder: (context, state) => const Placeholder(),
+            ),
+          ],
+        ),
+        StatefulShellBranch(
           navigatorKey: _shellNavigatorCartKey,
           routes: [GoRoute(path: AppRoutes.cartScreen, builder: (context, state) => const Cart())],
         ),
@@ -38,6 +49,15 @@ final router = GoRouter(
           navigatorKey: _shellNavigatorFavoriteKey,
           routes: [
             GoRoute(path: AppRoutes.favoriteScreen, builder: (context, state) => const Favorite()),
+          ],
+        ),
+        StatefulShellBranch(
+          navigatorKey: _shellNavigatorAccountKey,
+          routes: [
+            GoRoute(
+              path: AppRoutes.accountScreen,
+              builder: (context, state) => const Placeholder(),
+            ),
           ],
         ),
       ],
